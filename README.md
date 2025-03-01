@@ -14,9 +14,9 @@ Attrition Count: 237 employees have left
 
 Average Employee Age: 37 years
 # Attrition Analysis
-*The dashboard analyzes attrition based on departments and gender:
+* The dashboard analyzes attrition based on departments and gender:
 
-*Department-wise Attrition:
+Department-wise Attrition:
 
 HR: 56.17% (91 employees left)
 
@@ -30,7 +30,7 @@ Female: 87 employees left
 
 Male: 150 employees left
 # Workforce Demographics & Age Distribution
-*A histogram displays the number of employees in different age groups.
+* A histogram displays the number of employees in different age groups.
 
 This helps HR understand workforce distribution and plan for future hiring needs.
 # Education Field-wise Attrition
@@ -55,7 +55,7 @@ The table highlights satisfaction levels for different job roles, showing which 
 # Attrition Rate by Age Group & Gender
 * Attrition is segmented by age groups and gender to see which category has the highest turnover.
 
-* Key observations:
+Key observations:
 
 25-34 years: Highest attrition (29.11%)
 
