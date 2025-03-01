@@ -1,8 +1,8 @@
 # HR Analytics Dashboard 👋
-The HR Analytics Dashboard created using Tableau provides a comprehensive view of employee data, attrition trends, job satisfaction, and workforce demographics. It helps HR professionals make data-driven decisions regarding employee retention, hiring, and job satisfaction improvements.
+* The HR Analytics Dashboard created using Tableau provides a comprehensive view of employee data, attrition trends, job satisfaction, and workforce demographics. It helps HR professionals make data-driven decisions regarding employee retention, hiring, and job satisfaction improvements.
 ![image](https://github.com/sridevi-vaddemani/Tablaeu/blob/main/hr%20analytical%20dashboard.png)
 # Employee Summary & Key Metrics
-At the top of the dashboard, key performance indicators (KPIs) provide a quick overview of workforce statistics:
+* At the top of the dashboard, key performance indicators (KPIs) provide a quick overview of workforce statistics:
 
 Total Employees: 1,470
 
@@ -14,9 +14,9 @@ Attrition Count: 237 employees have left
 
 Average Employee Age: 37 years
 # Attrition Analysis
-The dashboard analyzes attrition based on departments and gender:
+*The dashboard analyzes attrition based on departments and gender:
 
-Department-wise Attrition:
+*Department-wise Attrition:
 
 HR: 56.17% (91 employees left)
 
@@ -30,11 +30,11 @@ Female: 87 employees left
 
 Male: 150 employees left
 # Workforce Demographics & Age Distribution
-A histogram displays the number of employees in different age groups.
+*A histogram displays the number of employees in different age groups.
 
 This helps HR understand workforce distribution and plan for future hiring needs.
 # Education Field-wise Attrition
-Attrition is analyzed based on employees' educational background:
+* Attrition is analyzed based on employees' educational background:
 
 Life Sciences: 89 employees left
 
@@ -49,13 +49,13 @@ Other Fields: 11 employees left
 Human Resources: 7 employees left
 
 # Job Satisfaction Rating
-Employees are categorized based on their job satisfaction levels (from 1 to 5).
+* Employees are categorized based on their job satisfaction levels (from 1 to 5).
 
 The table highlights satisfaction levels for different job roles, showing which roles have the most satisfied or dissatisfied employees.
 # Attrition Rate by Age Group & Gender
-Attrition is segmented by age groups and gender to see which category has the highest turnover.
+* Attrition is segmented by age groups and gender to see which category has the highest turnover.
 
-Key observations:
+* Key observations:
 
 25-34 years: Highest attrition (29.11%)
 
