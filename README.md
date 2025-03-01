@@ -4,9 +4,13 @@ The HR Analytics Dashboard created using Tableau provides a comprehensive view o
 At the top of the dashboard, key performance indicators (KPIs) provide a quick overview of workforce statistics:
 
 Total Employees: 1,470
+
 Attrition Rate: 16.12% (percentage of employees leaving the organization)
+
 Active Employees: 1,233 (currently working in the company)
+
 Attrition Count: 237 employees have left
+
 Average Employee Age: 37 years
 # Attrition Analysis
 The dashboard analyzes attrition based on departments and gender:
